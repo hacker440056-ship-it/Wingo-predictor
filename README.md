@@ -1,2 +1,0 @@
-# Wingo-predictor
-optional
